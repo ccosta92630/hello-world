@@ -2,7 +2,11 @@ master-1.1
 master-2.1
 master-3
 master-4
+<<<<<<< HEAD
 
 
 
 branch-1
+=======
+master-5
+>>>>>>> master
